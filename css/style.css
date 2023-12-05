@@ -18,7 +18,7 @@ button:hover {
 }
 
 .backgroundimg {
-  background-image: url(../images/Background.jpg);
+  background-image: url(../Images/Background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 6rem);  
