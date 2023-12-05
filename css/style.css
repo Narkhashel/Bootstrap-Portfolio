@@ -19,6 +19,7 @@ button:hover {
 
 .backgroundimg {
   background-image: url(../Images/Background.jpg);
+  background-color: var(--backgroundblue);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 6rem);  
